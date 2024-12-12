@@ -1,11 +1,9 @@
-# Shivakumar-V
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Samir V - Researcher & Innovator</title>
+    <title>Shiva Kumar V - Researcher & Innovator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -70,7 +68,7 @@
 </head>
 <body>
     <header>
-        <h1>Samir V</h1>
+        <h1>Shiva Kumar V</h1>
         <p>Researcher | Innovator | Advocate for Accessible Technology</p>
     </header>
     <nav>
@@ -80,7 +78,7 @@
     </nav>
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I am <span class="highlight">Samir V</span>, a passionate researcher specializing in <span class="highlight">upper limb prosthetics</span> and <span class="highlight">advanced biomechanics</span>. My work focuses on integrating artificial intelligence with prosthetic technology to enhance mobility and quality of life for individuals with disabilities. I am driven by personal experiences and a commitment to making a societal impact through innovation.</p>
+        <p>Hello! I am <span class="highlight">Shiva Kumar V</span>, a passionate researcher specializing in <span class="highlight">upper limb prosthetics</span> and <span class="highlight">advanced biomechanics</span>. My work focuses on integrating artificial intelligence with prosthetic technology to enhance mobility and quality of life for individuals with disabilities. I am driven by personal experiences and a commitment to making a societal impact through innovation.</p>
     </section>
     <section id="research">
         <h2>Research Highlights</h2>
@@ -93,10 +91,10 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <p>If you'd like to collaborate or learn more about my work, feel free to reach out!</p>
-        <p>Email: <a href="mailto:samirv@example.com">samirv@example.com</a></p>
+        <p>Email: <a href="mailto:shivakumarv@example.com">shivakumarv@example.com</a></p>
     </section>
     <footer>
-        <p>&copy; 2024 Samir V | Designed with passion for innovation and accessibility</p>
+        <p>&copy; 2024 Shiva Kumar V | Designed with passion for innovation and accessibility</p>
     </footer>
 </body>
 </html>
